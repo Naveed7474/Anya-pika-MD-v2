@@ -1,137 +1,184 @@
-<div align="center">
-   
-## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-<img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
-
-
-</p>
-<p align="center">
-<a href="#"><img title="𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞." src="https://img.shields.io/badge/𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞.-red?colorA=%23ff0000&colorB=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/Author-PikaBotz-red.svg?style=for-the-badge&logo=github"></a>
-<p align="center">
-<a href="https://github.com/PikaBotz/Anya-pika-MD-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PikaBotz/Anya-pika-MD-v2?color=blue&style=flat-square"></a>
-<a href="https://github.com/PikaBotz/Anya-pika-MD-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PikaBotz/Anya-pika-MD-v2?color=red&style=flat-square"></a>
-<a href="https://github.com/PikaBotz/Anya-pika-MD-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/PikaBotz/Anya-pika-MD-v2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPikaBotz%2Anya-pika-MD-v2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/PikaBotz/Anya-pika-MD-v2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</P>
-</div>
-
-##  
-# [SCAN QR CODE HERE 👇🏻](https://anyaqr.jetus-hack.repl.co/)
-
-<p align="center">
-<a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
-</div>
-<p align="center">
+    <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-##
+## PENTING
 
-# `DEPLOY HERE`
+> **Warning**: This script is not for trading with permission. 
 
+<h1 align="center">Anya_v2 - MultiDevice</h1>
+<p align="center">
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;Developed+on+Cheems+v4+Base;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
+</p>
 
 <p align="center">
-𝗛𝗲𝗿𝗼𝗸𝘂
-
+ <a href="#"><img title="Anya_v2-MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya-pika-MD-v2/"><img align="center" src="https://www.herokucdn.com/deploy/button.svg" alt="Fork and deploy" /></a>
-</P>
+<a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
 
-##
-<p align="center">
-𝗖𝗼𝗱𝗲𝘀𝗽𝗮𝗰𝗲
+---------
 
-<p align="center">
-<a href="https://github.com/codespaces/new"><img align="center" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Codespace.png" alt="Fork and deploy" /></a>
-</P>
-
-##
-<p align="center">
-𝗞𝗼𝘆𝗲𝗯
-
-<p align="center">
-<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/PikaBotz/Anya-pika-MD-v2&branch=main&name=anya"><img align="center" src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Fork and deploy" /></a>
-</P>
-
-##
-<p align="center">
-𝗠𝗼𝗴𝗲𝗻𝗶𝘂𝘀
-
-<p align="center">
-<a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img align="center" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" alt="Fork and deploy" /></a>
-</P>
+## ```Tap Here For Help ⛩️``` 
+  <a href="https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
-##
-## Install Manually 👇
-### `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+    Tap here for contact me on WhatsApp Messenger 🎐
+    
+  <a href="My email: alammdarif07@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
+  
+    My email Adress : alammdarif07@gmail.com 🎐
+     
+    
+---------
 
-##
-### `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
-cd Anya-pika-MD-v2
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT%20BY%20PIKA~-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918811074852?text=*Hello%20Dear%20Pika~*) 
+---------
 
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
-cd Anya-pika-MD-v2
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/PikaBotz/Anya-pika-MD-v2
-cd Anya-pika-MD-v2
-npm start
-```
-##
-### `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
-```
-##
-### `ℂℝ𝔼𝔻𝕀𝕋𝕊`
-* [Nexus](https://github.com/Nexusat12)
-* [Xeon](https://github.com/DGxeon)
-* [Jetus](https://github.com/jetus-hack)
+### Info About This Bot 🦋
+- ✔️ | **Simple But Advanced** 
+- ✔️ | **Button Free Template** 
+- ✔️ | **Multi Device** 
+---------
+### Some of the features included
+- ✔️ | AntiCall
+- ✔️ | AntiLink
+- ✔️ | AntiAntiToxic
+- ✔️ | AntiMedia
+- ✔️ | Auto Restart
+- ✔️ | Anime
+- ✔️ | ChatBot
+- ✔️ | Fancy Text
+- ✔️ | Menfess
+- ✔️ | Nsfw 
+- ✔️ | Only Admins (BETA)
+- ✔️ | Promote & Demote Message
+- ✔️ | Public & Private
+- ✔️ | Tools 
+- ✔️ | RandomMenu
+- ✔️ | Stalker
+- ✔️ | Sticker
+- ✔️ | Welcome & Left Message
+---------
 
-##
-### `Repo Stats`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya-pika-MD-v2)
+## ```Scan QR Here```
 
-##
-### `𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥`
+<a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
+  
+## ```Deploy On Railway```
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+
+## ```Deploy On Replit```
+
+[![Run on Repl.it](https://repl.it/badge/github/PikaBotz/Anya_v2-MD)](https://repl.it/github/PikaBotz/Anya_v2-MD)
+
+## ```Deploy On Heroku```
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya_v2-MD)
+
+## TERMUX USER
+```bash
+$ pkg upgrade && pkg update
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone https://github.com/PikaBotz/Anya_v2-MD
+$ cd Anya_v2-MD
+$ npm i 
+```
+If error try using yarn instead of npm, see [here](https://github.com/PikaBotz/Anya_v2-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
+```bash
+$ node .
+```
+
+#### For android 10 and above don't use npm, use yarn install
+```bash
+$ pkg install yarn -y
+$ yarn install
+```
+---------
+
+## TERMUX WITH UBUNTU
+
+```bash
+apt update && apt full-upgrade
+apt install wget curl git proot-distro
+proot-distro install ubuntu
+echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
+ubuntu
+```
+---------
+
+[ INSTALLING REQUIRED PACKAGES ]
+
+```bash
+ubuntu
+apt update && apt full-upgrade
+apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
+```
+
+---------
+
+[ INSTALLING NODEJS & ANYA_v2-MultiDevice]
+
+```bash
+ubuntu
+curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+apt install -y nodejs gcc g++ make
+git clone https://github.com/PikaBotz/Anya_v2-MD
+cd Anya_v2-MD
+npm install
+npm update
+```
+
+---------
+
+## FOR WINDOWS/VPS/RDP USER 💻
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/PikaBotz/Anya_v2-MD
+cd Anya_v2-MD
+npm install
+npm update
+```
+
+---------
+
+## Run ⏳
+
+```bash
+node .
+```
+
+---------
+
+
+### 📮 Terms & Conditions
+1. This repo is not for sale trade.
+2. Don't forget give `star` this repo 🌟
+3. This script is not made for `illegal` purpose.
+4. If you have problem, [`Tap Here`](https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲) for help
+
+---------
+
+## ```Thanks to ✨```
+* [`Nexus`](https://github.com/NexusAt12) - | ✅ For Script compatibility
+* [`Xeon`](https://github.com/DGXeon) - | ✅ For Cheems v4 Base
+* [`OldUser`](https://github.com/Teamolduser) - | ✅ For web and modules compatibility
+* [`ImYanXiao`](https://github.com/ImYanXiao) - | ✅ For README.md code
+* [`AdirajShing`](https://github.com/adiwajshing/Baileys) - | ✅ For a huge library
+
+## ```Repo Statistics ✏️```
+    
 <p align="center">
 
-<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
-
-##
-<br>
-<div>
-<br>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya_v2-MD&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya_v2-MD)
